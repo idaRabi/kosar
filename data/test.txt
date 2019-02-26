@@ -1,0 +1,6 @@
+/home/idarabi/Projects/pycharm-projects/Kosar/data/JPEGImages/output_0290.png
+/home/idarabi/Projects/pycharm-projects/Kosar/data/JPEGImages/output_0092.png
+/home/idarabi/Projects/pycharm-projects/Kosar/data/JPEGImages/output_0086.png
+/home/idarabi/Projects/pycharm-projects/Kosar/data/JPEGImages/output_0119.png
+/home/idarabi/Projects/pycharm-projects/Kosar/data/JPEGImages/output_0125.png
+/home/idarabi/Projects/pycharm-projects/Kosar/data/JPEGImages/output_0130.png
